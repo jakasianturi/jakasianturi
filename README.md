@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jakasianturi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+👋 Hi, I’m jakasianturi
 
 <!---
 jakasianturi/jakasianturi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
